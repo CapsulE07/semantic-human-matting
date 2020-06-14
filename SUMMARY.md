@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [pytorch 使用分布式模型训练](README.md)
 
